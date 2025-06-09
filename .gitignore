@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+
+# Dossiers de session Venom (évite de versionner les tokens de session)
+tokens/
+aviator-session/
+
+# Fichiers d'environnement
+.env
+
+# Logs éventuels
+*.log
+
+# Fichiers système (Mac, Windows)
+.DS_Store
+Thumbs.db
+
+# Dossiers d’IDE
+.vscode/
+.idea/

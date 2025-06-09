@@ -1,0 +1,23 @@
+{
+    "name": "venom-bot-project",
+    "version": "1.0.0",
+    "description": "Bot WhatsApp avec Venom",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "dev": "nodemon index.js"
+    },
+    "keywords": [
+        "venom",
+        "whatsapp",
+        "bot"
+    ],
+    "author": "Ton Nom",
+    "license": "MIT",
+    "dependencies": {
+        "venom-bot": "^5.0.0"
+    },
+    "devDependencies": {
+        "nodemon": "^3.0.0"
+    }
+}
